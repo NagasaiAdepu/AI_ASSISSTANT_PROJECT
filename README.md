@@ -1,2 +1,1 @@
-# AI_ASSISTANT_PROJECT
-STUDYBUDDY.AI
+# Ai-Assisstant_coding_project
